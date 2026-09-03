@@ -25,4 +25,10 @@ marzban-cli admin create --sudo
 
 نکات
 پورت را Railway خودش از طریق $PORT تزریق می‌کند؛ نیازی به تنظیم دستی نیست.
-برای تغییر نسخه‌ی Marzban که کلون می‌شود، آرگومان build به نام MARZBAN_REF را در railway.toml / تنظیمات Build اضافه کنید (پیش‌فرض: master).
+برای تغییر نسخه‌ی Marzban که کلون می‌شود، آرگومان build به نام MARZBAN_REF را در railway.toml / تنظیمات Build اضافه کنید (پیش‌فرض:
+
+
+
+
+
+سازنده این پنل B4G هست✅📊
